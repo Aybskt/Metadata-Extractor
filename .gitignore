@@ -1,0 +1,48 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+# Build tools
+target/
+build/
+out/
+.gradle/
+
+# Generated docs
+doc/
+docs/
+javadoc/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
