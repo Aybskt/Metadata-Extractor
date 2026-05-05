@@ -1,6 +1,8 @@
 # Java
 *.class
 *.jar
+!JAR Files/
+!JAR Files/**/*.jar
 *.war
 *.ear
 hs_err_pid*
