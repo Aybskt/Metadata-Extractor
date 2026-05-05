@@ -18,6 +18,8 @@ out/
 doc/
 docs/
 javadoc/
+!Javadoc/
+!Javadoc/**/*
 
 # Eclipse
 .project
